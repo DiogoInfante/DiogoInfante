@@ -4,7 +4,7 @@ I'm a mechatronics engineering student at PUC-Rio, with graduation scheduled for
 
 Currently, I'm working as an iOS developer at Apple Developer Academy PUC-Rio. 
 
-## Also Checkout My Portifolio
+### Also Checkout My Portifolio
 [<img src="portifolio.png" width="400"/>](https://diogoinfante.myportfolio.com)
 <!--
 **DiogoInfante/DiogoInfante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
