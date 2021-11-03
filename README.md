@@ -5,7 +5,7 @@ I'm a mechatronics engineering student at PUC-Rio, with graduation scheduled for
 Currently, I'm working as an iOS developer at Apple Developer Academy PUC-Rio. 
 
 ## Published Apps
-[<img src="route.png" width="400"/>](https://apps.apple.com/br/app/routes-caminhadas-culturais/id1576016545?l=en)
+[<img src="routes.png" width="400"/>](https://apps.apple.com/br/app/routes-caminhadas-culturais/id1576016545?l=en)
 
 ## Available Test Flights
 [<img src="coinks.png" width="400"/>](https://testflight.apple.com/join/ABK9wOWK)
