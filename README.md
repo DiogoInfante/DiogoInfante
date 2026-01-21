@@ -16,7 +16,7 @@ Currently, I work as a Software Engineer at Play.
 
 <!--
 ## Contact Me
-[<img src="linkedin.png" width="100"/>](https://www.linkedin.com/in/diogo-infante-741442151/)
+[<img src="linkedin.png" width="100"/>](https://www.linkedin.com/in/diogo-infante/?locale=en_US)
 [<img src="gmail.png" width="100"/>](infante.div@gmail.com)
 **DiogoInfante/DiogoInfante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
