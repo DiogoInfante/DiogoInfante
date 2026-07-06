@@ -4,8 +4,6 @@ I'm a Mechatronics Engineer graduated from PUC-Rio and an Apple Developer Academ
 
 I spent 4+ years as a Software Engineer at Play, a native prototyping tool that won a 2025 Apple Design Award and was acquired by Apple.
 
-🔗 https://diogoinfante.vercel.app
-
 ## Portfolio
 https://diogo-infante.vercel.app
 
