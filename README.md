@@ -6,9 +6,6 @@ I spent 4+ years as a Software Engineer at Play, a native prototyping tool that 
 
 🔗 https://diogoinfante.vercel.app
 
-## Portfolio
-https://diogo-infante.vercel.app
-<!--
 ## Contact Me
 [<img src="linkedin.png" width="100"/>](https://www.linkedin.com/in/diogo-infante/?locale=en_US)
 [<img src="gmail.png" width="100"/>](infante.div@gmail.com)
